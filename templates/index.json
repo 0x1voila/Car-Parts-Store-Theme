@@ -766,6 +766,7 @@
         "template--16148061683901__4f82b785-8c03-40b4-a975-2f1b8fbf8ef4-16850006462e3c8dc0-0": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/audi.png",
             "image_ratio": "adapt",
             "bg_border_img_color": "#e1e2e4",
             "border_width": 0.1,
@@ -775,6 +776,7 @@
         "template--16148061683901__4f82b785-8c03-40b4-a975-2f1b8fbf8ef4-16850006462e3c8dc0-1": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/bmw.png",
             "image_ratio": "adapt",
             "bg_border_img_color": "#e1e2e4",
             "border_width": 0.1,
@@ -784,6 +786,7 @@
         "template--16148061683901__4f82b785-8c03-40b4-a975-2f1b8fbf8ef4-16850006462e3c8dc0-2": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/saab.png",
             "image_ratio": "adapt",
             "bg_border_img_color": "#e1e2e4",
             "border_width": 0.1,
@@ -793,6 +796,7 @@
         "82402bb9-56fa-4d27-a375-356eb1a9454b": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/benz.png",
             "image_ratio": "adapt",
             "bg_border_img_color": "#e1e2e4",
             "border_width": 0.1,
@@ -802,6 +806,7 @@
         "a281bbd4-2527-4bfc-b499-ba66e639ba73": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/jeep.png",
             "image_ratio": "adapt",
             "bg_border_img_color": "#e1e2e4",
             "border_width": 0.1,
@@ -811,6 +816,7 @@
         "ed52e1df-29cf-46d8-9936-d35fba628f01": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/ford.png",
             "image_ratio": "adapt",
             "bg_border_img_color": "#e1e2e4",
             "border_width": 0.1,
@@ -840,7 +846,7 @@
         "inverted": false,
         "columns_desktop": 6,
         "spacing_grid_horizontal": 30,
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "off_carousel_counter": false,
         "nav_style_type": "type_1",
         "button_label": "",
@@ -853,7 +859,7 @@
         "bg_section_color": "#f5f6fa",
         "bg_color_opacity": 1,
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "desktop_section_padding": "10rem 1rem 11rem 1rem",
         "desktopContainerPadding": "0 0 0 0",
         "mobile_section_padding": "1rem 1rem 1rem 1rem",
