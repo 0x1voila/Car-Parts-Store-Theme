@@ -70,10 +70,10 @@
           "type": "contacts",
           "settings": {
             "heading": "Contacts",
-            "contacts_address": "",
+            "contacts_address": "<p>2635 Adonais Way Atlanta, GA 30303</p>",
             "contacts_time": "<p>We offer 24/7 customer service</p>",
-            "contacts_phone": "800-123-4567",
-            "contacts_phone_text": "Call Us:",
+            "contacts_phone": "",
+            "contacts_phone_text": "",
             "contacts_email": "info@gearheadautoparts.one",
             "contacts_email_text": "Send us an email",
             "columns_desktop": "3"
