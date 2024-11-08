@@ -63,7 +63,7 @@
           "settings": {
             "heading": "About",
             "subtext": "<p>At Gearhead Automobile Parts, we’re dedicated to keeping your vehicle running smoothly with top-quality, reliable parts. With a passion for performance and a commitment to customer satisfaction, we offer a wide range of products for all makes and models. </p>",
-            "columns_desktop": "4"
+            "columns_desktop": "3"
           }
         },
         "9ddbd3d8-86f9-4433-a469-8aff5683238d": {
@@ -74,9 +74,9 @@
             "contacts_time": "<p>We offer 24/7 customer service</p>",
             "contacts_phone": "800-123-4567",
             "contacts_phone_text": "Call Us:",
-            "contacts_email": "#",
+            "contacts_email": "info@gearheadautoparts.one",
             "contacts_email_text": "Send us an email",
-            "columns_desktop": "4"
+            "columns_desktop": "3"
           }
         }
       },
