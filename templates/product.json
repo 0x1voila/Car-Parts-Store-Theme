@@ -75,6 +75,17 @@
             "open_first_collapsible_row": false
           }
         },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "PRODUCT DETAILS",
+            "icon": "none",
+            "content": "<ul><li>Part Number: {{ product.metafields[\"shopify--facts\"].mpn.value }}</li><li>Vendor: {{ product.vendor }}</li><li>{{ product.metafields.shopify[\"manufacturer-type\"] | metafield_text: field: 'label' }}</li><li>{{ product.metafields.shopify[\"color-pattern\"] | metafield_text: field: 'label' }}</li></ul>",
+            "page": "",
+            "custom_liquid": "",
+            "open_first_collapsible_row": false
+          }
+        },
         "d6b1d212-599b-4088-8a14-95078ced1848": {
           "type": "additional_info",
           "settings": {
@@ -131,6 +142,7 @@
         "buy_buttons",
         "ec496ca3-a1c2-43f4-99a7-532ba480809b",
         "21395e72-380e-479f-a696-b99e3de1dcf6",
+        "collapsible-row-0",
         "d6b1d212-599b-4088-8a14-95078ced1848",
         "ca84ae0c-e874-4a01-b783-c506d099a62c",
         "b7a5d6ff-5409-45b1-bd19-92b967b322d6",
