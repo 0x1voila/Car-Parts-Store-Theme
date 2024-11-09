@@ -270,7 +270,7 @@
           "settings": {
             "block_collection_title": "",
             "block_title": "",
-            "collection": "wheels-brakes",
+            "collection": "engine-drivetrain",
             "card_design": "design-2",
             "card_text_alignment": "center",
             "image_ratio": "square",
@@ -570,7 +570,7 @@
           "settings": {
             "block_collection_title": "",
             "block_title": "",
-            "collection": "transmission",
+            "collection": "wheels-brakes",
             "card_design": "design-2",
             "card_text_alignment": "center",
             "image_ratio": "square",
