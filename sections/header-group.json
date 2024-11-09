@@ -35,10 +35,12 @@
         "450ee7c2-9276-404b-bbc5-97b5f25103fc",
         "2b08a40f-fe5b-4db6-9b19-2f3b7a657e83"
       ],
+      "disabled": true,
       "settings": {}
     },
     "ec4645fe-cc6a-44d0-8e8c-c76a9fba1bc4": {
       "type": "zmz-ticker",
+      "disabled": true,
       "settings": {}
     },
     "header": {
@@ -131,7 +133,7 @@
         "fcd85f23-97fd-4cc4-bf30-08d261eb4092": {
           "type": "topbar",
           "settings": {
-            "text_description": "Free shipping on orders over <a href=\"/collections/all\" target=\"_blank\" title=\"All products\">$100</a>",
+            "text_description": "discount shipping on orders over <a href=\"/collections/all\" target=\"_blank\" title=\"All products\">$500</a>",
             "color_scheme": "inverse",
             "show_social": true,
             "social_style": "circle"
