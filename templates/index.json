@@ -270,7 +270,7 @@
           "settings": {
             "block_collection_title": "",
             "block_title": "",
-            "collection": "headlights-lighting",
+            "collection": "wheels-brakes",
             "card_design": "design-2",
             "card_text_alignment": "center",
             "image_ratio": "square",
@@ -294,7 +294,7 @@
           "settings": {
             "block_collection_title": "",
             "block_title": "",
-            "collection": "auto-body-parts",
+            "collection": "interior",
             "card_design": "design-2",
             "card_text_alignment": "center",
             "image_ratio": "square",
@@ -318,7 +318,7 @@
           "settings": {
             "block_collection_title": "",
             "block_title": "",
-            "collection": "exhaust-systems",
+            "collection": "engine-drivetrain",
             "card_design": "design-2",
             "card_text_alignment": "center",
             "image_ratio": "square",
