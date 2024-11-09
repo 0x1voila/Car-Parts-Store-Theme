@@ -54,7 +54,7 @@
           "type": "link_list",
           "settings": {
             "heading": "Links",
-            "menu": "",
+            "menu": "footer",
             "columns_desktop": "3"
           }
         },
