@@ -64,13 +64,13 @@
         "template--14904679923754__041c7a76-2a90-4220-93b6-ce43ae2209c6-1678960762d646aacd-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "exterior-body"
+            "collection": "interior"
           }
         },
         "b5a5283c-da81-43c6-bf5e-83e6e9b48f0a": {
           "type": "featured_collection",
           "settings": {
-            "collection": "headlights-lighting"
+            "collection": "engine-drivetrain"
           }
         },
         "8adfcc04-7575-47ca-b5d6-8b50ceb94172": {
