@@ -161,37 +161,37 @@
         "3f4cbbd5-0a11-4396-8947-5f7245b9820d": {
           "type": "featured_collection",
           "settings": {
-            "collection": "auto-body-parts"
+            "collection": "exterior-body"
           }
         },
         "template--16148061683901__15bdc44c-c01a-4669-953e-d790f21ca68c-168491944368ad95a4-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "transmission"
+            "collection": "engine-drivetrain"
           }
         },
         "template--16148061683901__15bdc44c-c01a-4669-953e-d790f21ca68c-168491944368ad95a4-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "headlights-lighting"
+            "collection": "wheels-brakes"
           }
         },
         "8e69e408-b4cc-46cc-9e6c-99cfecde0e1d": {
           "type": "featured_collection",
           "settings": {
-            "collection": "exhaust-systems"
+            "collection": "interior"
           }
         },
         "template--16148061683901__15bdc44c-c01a-4669-953e-d790f21ca68c-168491944368ad95a4-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "grille-guards"
+            "collection": "suspension-exhausts"
           }
         },
         "1901b071-8ac2-4293-94b1-ed8427ab1f86": {
           "type": "featured_collection",
           "settings": {
-            "collection": "air-filters-intake"
+            "collection": "headlights-and-lighting"
           }
         }
       },
