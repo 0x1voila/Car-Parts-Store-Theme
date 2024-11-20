@@ -1,0 +1,208 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "accessibility": {
+    "complementary_products": "Produkty uzupełniające",
+    "similar_products": "Zobacz podobne",
+    "tooltip_sold_out": "Dostępne wkrótce!",
+    "previous_slide": "Poprzedni slajd",
+    "next_slide": "Następny slajd",
+    "days": "Dni",
+    "hours": "Godz.",
+    "seconds": "Sek.",
+    "copied": "skopiowano:",
+    "copy": "Kopia",
+    "copy_to": "Kopiuj do schowka"
+  },
+  "blogs": {
+    "article": {
+      "discover_now": "Odkryj teraz",
+      "read_more_title": "Przeczytaj więcej: {{ title }}",
+      "read_more": "Przeczytaj więcej",
+      "comments": {
+        "one": "{{ count }} komentarz",
+        "other": "{{ count }} komentarzy"
+      },
+      "moderated": "Należy pamiętać, że komentarze muszą zostać zatwierdzone przed publikacją.",
+      "comment_form_title": "Zostaw komentarz",
+      "name": "Nazwa",
+      "email": "E-mail",
+      "message": "Komentarz",
+      "post": "Dodaj komentarz",
+      "back_to_blog": "Powrót do bloga",
+      "share": "Udostępnij ten artykuł",
+      "success": "Twój komentarz został pomyślnie opublikowany! Dziękuję!",
+      "success_moderated": "Twój komentarz został pomyślnie opublikowany. Opublikujemy go za chwilę, ponieważ nasz blog jest moderowany."
+    }
+  },
+  "onboarding": {
+    "product_title": "Przykładowy tytuł produktu",
+    "collection_title": "Nazwa Twojej kolekcji"
+  },
+  "products": {
+    "product": {
+      "add_to_cart": "Dodaj do koszyka",
+      "choose_options": "Wybierz opcje",
+      "choose_product_options": "Wybierz opcje dla {{ product_name }}",
+      "description": "Opis",
+      "inventory_in_stock": "W magazynie",
+      "inventory_in_stock_show_count": "W magazynie {{ quantity }}",
+      "inventory_low_stock": "Niski stan magazynowy",
+      "inventory_low_stock_show_count": "Mało w magazynie: pozostało {{ quantity }}",
+      "inventory_low_show_count": "Pozostało {{ quantity }}",
+      "inventory_out_of_stock": "Brak w magazynie",
+      "inventory_out_of_stock_continue_selling": "W magazynie",
+      "sku": "Numer katalogowy",
+      "on_sale": "Sprzedaż",
+      "product_variants": "Warianty produktu",
+      "media": {
+        "gallery_viewer": "Przeglądarka galerii",
+        "load_image": "Załaduj obraz {{ index }} w widoku galerii",
+        "load_model": "Załaduj model 3D {{ index }} w widoku galerii",
+        "load_video": "Odtwórz wideo {{ index }} w widoku galerii",
+        "image_available": "Obraz {{ index }} jest teraz dostępny w widoku galerii",
+        "open_media": "Otwórz media {{ index }} w oknie modalnym",
+        "play_model": "Odtwórz przeglądarkę 3D",
+        "play_video": "Odtwórz wideo"
+      },
+      "quantity": {
+        "label": "Ilość",
+        "input_label": "Ilość dla {{ product }}",
+        "increase": "Zwiększ ilość dla {{ product }}",
+        "decrease": "Zmniejsz ilość dla {{ product }}"
+      },
+      "pickup_availability": {
+        "view_store_info": "Wyświetl informacje o sklepie",
+        "check_other_stores": "Sprawdź dostępność w innych sklepach",
+        "pick_up_available": "Możliwość odbioru osobistego",
+        "pick_up_available_at_html": "Odbiór możliwy w <span class=\"color-foreground\">{{ location_name }}</span>",
+        "pick_up_unavailable_at_html": "Odbiór obecnie niedostępny w <span class=\"color-foreground\">{{ location_name }}</span>",
+        "unavailable": "Nie udało się załadować dostępności odbioru",
+        "refresh": "Odświeżać"
+      },
+      "price": {
+        "from_price_html": "Od {{ price }}",
+        "regular_price": "Cena regularna",
+        "sale_price": "Cena sprzedaży",
+        "unit_price": "Cena jednostkowa"
+      },
+      "share": "Podziel się tym produktem",
+      "sold_out": "Wyszło",
+      "unavailable": "Nie płynny",
+      "vendor": "Sprzedawca",
+      "value_unavailable": "{{ option_value }} - Niedostępne",
+      "variant_sold_out_or_unavailable": "Wariant wyprzedany lub niedostępny",
+      "video_exit_message": "{{ title }} otwiera pełnoekranowy film w tym samym oknie.",
+      "view_full_details": "Zobacz pełne szczegóły",
+      "xr_button": "Zobacz w swojej przestrzeni",
+      "xr_button_label": "Wyświetl w swojej przestrzeni, załaduj element w oknie rzeczywistości rozszerzonej",
+      "include_taxes": "Podatek wliczony w cenę.",
+      "shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">Koszt wysyłki</a> obliczany jest przy kasie.",
+      "notify": "Powiadom mnie",
+      "notify_form_title": "Podaj swój adres e-mail, a powiadomimy Cię, gdy towar pojawi się w magazynie",
+      "type": "Typ",
+      "weight": "Waga",
+      "tags": "Tagi",
+      "collections": "Kolekcje",
+      "new_badge": "Nowy"
+    },
+    "modal": {
+      "label": "Galeria multimediów"
+    },
+    "facets": {
+      "apply": "Stosować",
+      "clear": "Jasne",
+      "clear_all": "Usuń wszystko",
+      "from": "Z",
+      "filter_and_sort": "Filtruj i sortuj",
+      "filter_by_label": "Filtr:",
+      "filter_button": "Filtr",
+      "filters_selected": {
+        "one": "{{ count }} wybrano",
+        "other": "{{ count }} wybrano"
+      },
+      "filter_selected_accessibility": "{{ type }} (wybrano {{ count }} filtrów)",
+      "show_more": "Pokaż więcej",
+      "show_less": "Pokaż mniej",
+      "max_price": "Najwyższa cena to {{ price }}"
+    }
+  },
+  "customer": {
+    "order": {
+      "date_html": "Umieszczono {{ date }}",
+      "cancelled_html": "Zamówienie anulowane w dniu {{ date }}",
+      "cancelled_reason": "Powód: {{ reason }}",
+      "billing_address": "Adres rozliczeniowy",
+      "payment_status": "Status płatności",
+      "shipping_address": "Adres wysyłkowy",
+      "fulfillment_status": "Status realizacji",
+      "discount": "Rabat",
+      "shipping": "Wysyłka",
+      "tax": "Podatek",
+      "product": "Produkt",
+      "sku": "Numer katalogowy",
+      "price": "Cena",
+      "quantity": "Ilość",
+      "total": "Całkowity",
+      "fulfilled_at_html": "Spełniony {{ date }}",
+      "track_shipment": "Śledź przesyłkę",
+      "tracking_url": "Link śledzący",
+      "tracking_company": "Przewoźnik",
+      "tracking_number": "Numer śledzenia",
+      "subtotal": "Podsumowanie",
+      "total_duties": "Obowiązki"
+    },
+    "orders": {
+      "title": "Historia zamówień",
+      "order_number": "Zamówienie",
+      "order_number_link": "Numer zamówienia {{ number }}",
+      "date": "Data",
+      "payment_status": "Status płatności",
+      "fulfillment_status": "Status realizacji",
+      "total": "Całkowity",
+      "none": "Nie złożyłeś jeszcze żadnego zamówienia."
+    },
+    "recover_password": {
+      "title": "Zresetuj swoje hasło",
+      "subtext": "Wyślemy Ci e-mail z prośbą o zresetowanie hasła",
+      "success": "Wysłaliśmy Ci wiadomość e-mail zawierającą link umożliwiający aktualizację hasła."
+    },
+    "register": {
+      "title": "Utwórz konto",
+      "first_name": "Imię",
+      "last_name": "Nazwisko",
+      "email": "E-mail",
+      "password": "Hasło",
+      "submit": "Tworzyć"
+    },
+    "reset_password": {
+      "title": "Zresetuj hasło do konta",
+      "subtext": "Wprowadź nowe hasło",
+      "password": "Hasło",
+      "password_confirm": "Potwierdź hasło",
+      "submit": "Zresetuj hasło"
+    }
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "Oto Twoja karta podarunkowa {{ value }} do {{ shop }} !",
+      "subtext": "Twoja karta podarunkowa",
+      "gift_card_code": "Kod karty podarunkowej",
+      "shop_link": "Kontynuuj zakupy",
+      "remaining_html": "Pozostałe {{ balance }}",
+      "add_to_apple_wallet": "Dodaj do portfela Apple",
+      "qr_image_alt": "Kod QR — zeskanuj, aby zrealizować kartę podarunkową",
+      "copy_code": "Kopiuj kod",
+      "expired": "Wygasły",
+      "copy_code_success": "Kod skopiowany pomyślnie",
+      "print_gift_card": "Wydrukować"
+    }
+  }
+}
