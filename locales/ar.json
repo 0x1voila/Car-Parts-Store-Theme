@@ -2200,7 +2200,8 @@
       },
       "not_found": "404 لم يتم العثور عليه",
       "challenge": "تحدي",
-      "checkpoint": "نقطة تفتيش"
+      "checkpoint": "نقطة تفتيش",
+      "collections": "المجموعات"
     },
     "cart": {
       "discounts_with_count": "تم تطبيق %{count} خصم"
@@ -2431,7 +2432,8 @@
         },
         "order_list_column_headers_location": "موقع",
         "order_list_column_headers_status": "حالة",
-        "removed_company_contact_tooltip": "تم إزالته من الشركة"
+        "removed_company_contact_tooltip": "تم إزالته من الشركة",
+        "order_list_column_headers_contact": "اتصال"
       },
       "draft_order_details": {
         "draft_order_subtitle": "تم التأكيد بتاريخ {{date}} من الطلب {{draftOrderName}}",
@@ -3081,7 +3083,8 @@
         "load_more_accessibility_label": "تحميل المزيد من العناصر",
         "loading_accessibility_label": "تحميل العناصر"
       },
-      "login_to_view_all_order_details": "قم بتسجيل الدخول لعرض كافة تفاصيل الطلب."
+      "login_to_view_all_order_details": "قم بتسجيل الدخول لعرض كافة تفاصيل الطلب.",
+      "contact": "اتصال"
     },
     "errors": {
       "address_deletion_error": {
@@ -3479,7 +3482,9 @@
         "input_label": "الكمية لـ {{ product }}",
         "increase": "زيادة الكمية لـ {{ product }}",
         "decrease": "تقليل الكمية لـ {{ product }}"
-      }
+      },
+      "on_sale": "أُوكَازيُون",
+      "collections": "المجموعات"
     },
     "modal": {
       "label": "معرض الوسائط"
@@ -3513,7 +3518,8 @@
       "sort_by_label": "فرز حسب:",
       "to": "ل",
       "clear_filter": "إزالة الفلتر",
-      "count_view": "منظر:"
+      "count_view": "منظر:",
+      "price": "سعر"
     },
     "wishlist": {
       "wishlist": "المفضلة",
@@ -3534,7 +3540,8 @@
       "new": "جديد",
       "clear": "مسح الكل",
       "compareTitle": "أضف إلى المقارنة",
-      "compareAlert": "لقد قمت بإضافة الحد الأقصى من المنتجات للمقارنة."
+      "compareAlert": "لقد قمت بإضافة الحد الأقصى من المنتجات للمقارنة.",
+      "sale": "أُوكَازيُون"
     },
     "loadmore": {
       "title": "تحميل المزيد من المنتجات"
@@ -3557,7 +3564,8 @@
         "other": "تم العثور على {{ count }} نتيجة لـ “ {{ terms }} ”"
       },
       "title": "نتائج البحث",
-      "search_for": "ابحث عن “ {{ terms }} ”"
+      "search_for": "ابحث عن “ {{ terms }} ”",
+      "products": "منتجات"
     },
     "cart": {
       "cart": "كيس التسوق"
@@ -3659,7 +3667,8 @@
       "tracking_company": "الناقل",
       "tracking_number": "عدد تتبع",
       "subtotal": "المجموع الفرعي",
-      "total_duties": "الواجبات"
+      "total_duties": "الواجبات",
+      "price": "سعر"
     },
     "orders": {
       "title": "سجل الطلبات",
@@ -3720,7 +3729,8 @@
         "product": "منتج",
         "total": "المجموع",
         "quantity": "كمية",
-        "image": "صورة المنتج"
+        "image": "صورة المنتج",
+        "price": "سعر"
       },
       "update": "تحديث",
       "login": {
@@ -3733,10 +3743,12 @@
     },
     "featured_blog": {
       "onboarding_title": "تدوينة",
-      "onboarding_content": "أعط عملائك ملخصًا لمنشور مدونتك"
+      "onboarding_content": "أعط عملائك ملخصًا لمنشور مدونتك",
+      "view_all": "عرض الكل"
     },
     "featured_collection": {
-      "view_all_label": "عرض جميع المنتجات في المجموعة {{ collection_name }}"
+      "view_all_label": "عرض جميع المنتجات في المجموعة {{ collection_name }}",
+      "view_all": "عرض الكل"
     },
     "collection_template": {
       "empty": "لم يتم العثور على أي منتجات",
@@ -3757,6 +3769,9 @@
     },
     "page": {
       "title": "عنوان الصفحة"
+    },
+    "collection_list": {
+      "view_all": "عرض الكل"
     }
   },
   "general": {
@@ -3815,7 +3830,8 @@
       "name": "منزلق"
     },
     "breadcrumbs": {
-      "home_link_title": "العودة إلى الصفحة الرئيسية"
+      "home_link_title": "العودة إلى الصفحة الرئيسية",
+      "home": "بيت"
     }
   },
   "gift_cards": {
@@ -3885,7 +3901,8 @@
       "back_to_blog": "العودة إلى المدونة",
       "share": "شارك هذه المقالة",
       "success": "لقد تم نشر تعليقك بنجاح! شكرا لك!",
-      "success_moderated": "تم نشر تعليقك بنجاح، وسنقوم بنشره بعد قليل، حيث أن مدونتنا تخضع للرقابة."
+      "success_moderated": "تم نشر تعليقك بنجاح، وسنقوم بنشره بعد قليل، حيث أن مدونتنا تخضع للرقابة.",
+      "blog": "مدونة"
     }
   },
   "onboarding": {
