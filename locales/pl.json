@@ -19,7 +19,22 @@
     "seconds": "Sek.",
     "copied": "skopiowano:",
     "copy": "Kopia",
-    "copy_to": "Kopiuj do schowka"
+    "copy_to": "Kopiuj do schowka",
+    "skip_to_text": "Przejdź do treści",
+    "skip_to_product_info": "Przejdź do informacji o produkcie",
+    "close": "Zamknąć",
+    "unit_price_separator": "za",
+    "vendor": "Sprzedawca:",
+    "error": "Błąd",
+    "refresh_page": "Wybranie opcji powoduje odświeżenie całej strony.",
+    "link_messages": {
+      "new_window": "Otwiera się w nowym oknie.",
+      "external": "Otwiera zewnętrzną stronę internetową."
+    },
+    "loading": "Załadunek...",
+    "total_reviews": "łącznie recenzji",
+    "star_reviews_info": "{{ rating_value }} z {{ rating_max }} gwiazdek",
+    "collapsible_content_title": "Zawartość składana"
   },
   "blogs": {
     "article": {
@@ -204,5 +219,135 @@
       "copy_code_success": "Kod skopiowany pomyślnie",
       "print_gift_card": "Wydrukować"
     }
+  },
+  "sections": {
+    "header": {
+      "announcement": "Ogłoszenie",
+      "cart_count": {
+        "one": "{{ count }} element",
+        "other": "{{ count }} elementów"
+      }
+    },
+    "cart": {
+      "title": "Twój koszyk",
+      "caption": "Elementy koszyka",
+      "remove_title": "Usuń {{ title }}",
+      "subtotal": "Podsumowanie",
+      "new_subtotal": "Nowa suma częściowa",
+      "note": "Zamów specjalne instrukcje",
+      "checkout": "Wymeldować się",
+      "empty": "Twój koszyk jest pusty",
+      "cart_error": "Wystąpił błąd podczas aktualizacji koszyka. Spróbuj ponownie.",
+      "cart_quantity_error_html": "Do koszyka możesz dodać nie więcej niż {{ quantity }} tego produktu.",
+      "taxes_and_shipping_policy_at_checkout_html": "Podatki i <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">koszty wysyłki</a> zostaną obliczone przy kasie",
+      "taxes_included_but_shipping_at_checkout": "Podatek wliczony w cenę, koszty wysyłki obliczone przy kasie",
+      "taxes_included_and_shipping_policy_html": "Podatek wliczony w cenę. <a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">Koszt wysyłki</a> obliczony przy kasie.",
+      "taxes_and_shipping_at_checkout": "Podatki i koszty wysyłki zostaną obliczone przy kasie",
+      "headings": {
+        "product": "Produkt",
+        "price": "Cena",
+        "total": "Całkowity",
+        "quantity": "Ilość",
+        "image": "Obraz produktu"
+      },
+      "update": "Aktualizacja",
+      "login": {
+        "title": "Masz konto?",
+        "paragraph_html": "<a href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\" class=\"link underlined-link\">Zaloguj się,</a> aby szybciej dokonać płatności."
+      }
+    },
+    "footer": {
+      "payment": "Metody płatności"
+    },
+    "featured_blog": {
+      "view_all": "Zobacz wszystko",
+      "onboarding_title": "Wpis na blogu",
+      "onboarding_content": "Udostępnij swoim klientom podsumowanie wpisu na blogu"
+    },
+    "featured_collection": {
+      "view_all": "Zobacz wszystko",
+      "view_all_label": "Zobacz wszystkie produkty w kolekcji {{ collection_name }}"
+    },
+    "collection_list": {
+      "view_all": "Zobacz wszystko"
+    },
+    "collection_template": {
+      "empty": "Nie znaleziono produktów",
+      "title": "Kolekcja",
+      "use_fewer_filters_html": "Użyj mniejszej liczby filtrów lub <a class=\"&lt;span class='notranslate'&gt;{{ class }}&lt;/span&gt;\" href=\"&lt;span%20class='notranslate'&gt;{{%20link%20}}&lt;/span&gt;\">usuń wszystkie</a>"
+    },
+    "video": {
+      "load_video": "Załaduj wideo: {{ description }}"
+    },
+    "slideshow": {
+      "load_slide": "Załaduj slajd",
+      "previous_slideshow": "Poprzedni slajd",
+      "next_slideshow": "Następny slajd",
+      "pause_slideshow": "Wstrzymaj pokaz slajdów",
+      "play_slideshow": "Odtwórz pokaz slajdów",
+      "carousel": "Karuzela",
+      "slide": "Slajd"
+    },
+    "page": {
+      "title": "Tytuł strony"
+    }
+  },
+  "general": {
+    "password_page": {
+      "login_form_heading": "Wejdź do sklepu używając hasła:",
+      "login_password_button": "Wprowadź hasło",
+      "login_form_password_label": "Hasło",
+      "login_form_password_placeholder": "Twoje hasło",
+      "login_form_error": "Złe hasło!",
+      "login_form_submit": "Wchodzić",
+      "admin_link_html": "Czy jesteś właścicielem sklepu? <a href=\"/admin\" class=\"link underlined-link\">Zaloguj się tutaj</a>"
+    },
+    "social": {
+      "alt_text": {
+        "share_on_facebook": "Udostępnij na Facebooku",
+        "share_on_twitter": "Tweetnij na Twitterze",
+        "share_on_pinterest": "Przypnij na Pintereście"
+      },
+      "links": {
+        "twitter": "Świergot"
+      }
+    },
+    "continue_shopping": "Kontynuuj zakupy",
+    "pagination": {
+      "label": "Paginacja",
+      "page": "Strona {{ number }}",
+      "next": "Następna strona",
+      "previous": "Poprzednia strona"
+    },
+    "search": {
+      "search": "Szukaj",
+      "reset": "Wyczyść termin wyszukiwania"
+    },
+    "cart": {
+      "view": "Wyświetl koszyk ( {{ count }} )",
+      "view_empty_cart": "Wyświetl koszyk",
+      "item_added": "Pozycja dodana do koszyka"
+    },
+    "share": {
+      "close": "Zamknij Udostępnij",
+      "copy_to_clipboard": "Kopiuj link",
+      "share_url": "Połączyć",
+      "success_message": "Link skopiowany do schowka"
+    },
+    "slider": {
+      "of": "z",
+      "next_slide": "Przesuń w prawo",
+      "previous_slide": "Przesuń w lewo",
+      "name": "Suwak"
+    },
+    "breadcrumbs": {
+      "home": "Dom",
+      "home_link_title": "Powrót do strony głównej"
+    }
+  },
+  "newsletter": {
+    "label": "E-mail",
+    "success": "Dziękujemy za subskrypcję",
+    "button_label": "Subskrybować"
   }
 }
